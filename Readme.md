@@ -54,7 +54,6 @@
 
 
 
-
 # News API
 
 This tiny API provides subscribing and unsubscribing of users using the [go-news](https://github.com/drylikov/go-news) package. 
